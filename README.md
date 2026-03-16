@@ -1,11 +1,5 @@
 ---
 wts:
-  title: '00 - Readme - Error Log'
-  module: 'Module 00 - Course Introduction'
+    title: '00 - Readme - Error Log'
+    module: 'Module 00 - Course Introduction'
 ---
-
-# microsoft-learning-labs
-Module 00 - Course Introduction
-
-# 00 - Readme - Error Log
-This file belongs to Module 00 - Course Introduction.
